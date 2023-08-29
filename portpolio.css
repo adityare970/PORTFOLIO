@@ -1,0 +1,36 @@
+body{
+	text-align: center;
+}
+li{
+	display: inline;
+	margin - right: 50px;
+}
+a{
+	text-decoration:none;
+	color: red;
+	padding: 20px;
+
+}
+header{
+	background-color:white;
+	color:black;
+	padding:20px;
+}
+#home img{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+}
+#portfolio{
+	background-color: white;
+	padding: 20px;
+}
+#skills li{
+	color: black;
+	display: inline;
+}
+footer{
+	background-color: black;
+	color: white;
+	padding: 10px;
+}
